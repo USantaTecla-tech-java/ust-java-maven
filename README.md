@@ -1,0 +1,1 @@
+# ust-java-maven
